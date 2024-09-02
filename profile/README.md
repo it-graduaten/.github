@@ -16,7 +16,7 @@ Om alles binnen onze GitHub-organisatie netjes en overzichtelijk te houden, hebb
 ### Repositories
 
 #### Cursusmateriaal
-Deze repositories bevatten het cursusmateriaal dat gebruikt wordt in de cursus. Dit kan gaan van PowerPoint-bestanden tot oefeningen. Deze repositories moeten **PRIVATE** zijn en zich binnen de organisatie bevinden.
+Deze repositories bevatten het cursusmateriaal dat gebruikt wordt in de cursus. Dit kan gaan van PowerPoint-bestanden tot oefeningen. Deze repositories moeten **PRIVATE** zijn en zich binnen de organisatie bevinden. Indien je uit deze private repository zaken toch publiek wil maken, kan je gebruik maken van [GitPub](https://gitpub.sebastiaanh.com/).
 
 Volgende naamgeving wordt gebruikt: `course-material-LEERLIJN[-OPO]`. Hierbij is OPO optioneel.
 
