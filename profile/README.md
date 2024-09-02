@@ -1,5 +1,14 @@
 # Thomas More - IT Graduaten
 
+Code, course materials and student repositories for the IT associate programs at Thomas More Kempen (Belgium).
+
+## Contact
+
+If you have any questions regarding this organization, please contact one of the following people:
+- [Sebastiaan Henau](sebastiaan.henau@thomasmore.be)
+- [Joren Synaeve](joren.synaeve@thomasmore.be)
+- [Mitch Mommers](mitch.mommers@thomasmore.be)
+
 ## Naamgevingsrichtlijnen voor repositories en opdrachten in GitHub Classroom
 
 Om alles binnen onze GitHub-organisatie netjes en overzichtelijk te houden, hebben we een paar afspraken gemaakt over het naamgeven van repositories en opdrachten. Zorg ervoor dat je deze richtlijnen volgt bij het aanmaken van nieuwe repositories en GitHub Classroom-opdrachten.
@@ -29,7 +38,7 @@ Enkele voorbeelden:
 #### Configuratie voor Course Builder
 Deze repositories bevatten de configuratie voor de Course Builder. Deze repositories moeten **PRIVATE** zijn en zich binnen de organisatie bevinden.
 
-Volgende naamgeving wordt gebruikt: `config-LEERLIJN-OPO`.
+Volgende naamgeving wordt gebruikt: `config-LEERLIJN-OPO[-dag/wt]`. Hierbij is dag/wt optioneel en geeft aan of het om een dag- of werktraject gaat.
 
 Enkele voorbeelden:
   - config-javascript-frontendframeworks
